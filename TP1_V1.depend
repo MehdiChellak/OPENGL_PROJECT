@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1641516732 source:c:\users\asus\desktop\open gl\tp1_v1\main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	"objets.h"
+	<math.h>
+	"Exam20182019.h"
+
+1641517219 c:\users\asus\desktop\open gl\tp1_v1\objets.h
+	<math.h>
+
+1641516053 c:\users\asus\desktop\open gl\tp1_v1\exam20182019.h
+
+1641516732 source:c:\users\asus\desktop\s3\open gl\tp1_v1\main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	"objets.h"
+	<math.h>
+	"Exam20182019.h"
+
+1641517219 c:\users\asus\desktop\s3\open gl\tp1_v1\objets.h
+	<math.h>
+
+1641516053 c:\users\asus\desktop\s3\open gl\tp1_v1\exam20182019.h
+
